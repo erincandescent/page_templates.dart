@@ -1,0 +1,6 @@
+name: page_templates
+description: An implementation of Zope Page Templates for Dart
+dependencies:
+  html5lib: any
+  logging: any
+  path: any
